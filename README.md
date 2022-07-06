@@ -30,8 +30,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=rose_pine&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595)](https://github.com/KimGunWoo9595/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595)](https://github.com/KimGunWoo9595/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
- [![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in) 
-<!-- ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CJH0120&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
+(Most Used Language)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595)
