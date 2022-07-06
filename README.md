@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 # 📊GitHub Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=rose_pine&show_icons=true)
-
+<a href="https://github.com/KimGunWoo9595/github-stats">
+ <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=49.2% />
+</a>
 
