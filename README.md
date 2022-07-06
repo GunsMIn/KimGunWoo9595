@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 # 📊GitHub Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=rose_pine&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595)](https://github.com/KimGunWoo9595/github-readme-stats)
-(Most Used Language)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595)](https://github.com/KimGunWoo9595/github-readme-stats)
