@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
-
+![Spring Boot](https://img.shields.io/badge/MariaDB-#6DB33F?style=flat&logo=mariadb&logoColor=white) 
 # 📊GitHub Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=rose_pine&show_icons=true)
