@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 # 📊GitHub Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=rose_pine&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=Gradient&show_icons=true)
 
 ![KimGunWoo9595's github stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&show_icons=true)
 <br>
