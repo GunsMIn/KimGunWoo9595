@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=GW&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=GunWoo&fontSize=60)<br>
 <h2>✨Hello, I'm GunWoo!✨</h2>
 미래의 백엔드 개발자 김건우 입니다 :D<br>
 "You just need to believe in yourself." <br><br>
@@ -29,7 +29,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
 
 
 <h2>🎈Tools🎈</h2>
