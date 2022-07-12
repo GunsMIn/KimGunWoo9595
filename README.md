@@ -29,6 +29,5 @@
 # 📊GitHub Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=Gradient&show_icons=true)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
