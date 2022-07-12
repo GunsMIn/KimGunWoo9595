@@ -2,12 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_G.W&fontSize=60)<br>
 <h2>✨Hello, I'm GunWoo!✨</h2>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon1104&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+미래의 백엔드 개발자 김건우 입니다 :D
 <br>
 
  # 💫About Me :
-미래의 백엔드 개발자 김건우 입니다 :D
+🎓Graduated DGU in Seoul, Chinese Language and Literature, Business Administration<br>
+📜Certificated Korea IT program in Seoul<br>
+💌Email : 2018110325@dgu.ac.kr<br>
+
 
 # 💻Tech Stack
 
