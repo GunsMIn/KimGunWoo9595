@@ -11,7 +11,8 @@
  # 💫About Me :
 🎓Graduated : Dankook university<br>
 📜Certificated : Korea IT program in Seoul<br>
-💌Email : medneter@naver.comr<br>
+💌Email : medneter@naver.com<br>
+👀Notion : https://www.notion.so/Backend-Developer-95cc2d34fe7e400e97b484eae136d1a7<br>
 
 
 # 💻Tech Stack
