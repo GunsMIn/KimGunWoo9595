@@ -6,9 +6,9 @@
 <br>
 
  # 💫About Me :
-🎓Graduated DGU in Seoul, Chinese Language and Literature, Business Administration<br>
+🎓Graduated Dankook university<br>
 📜Certificated Korea IT program in Seoul<br>
-💌Email : 2018110325@dgu.ac.kr<br>
+💌Email : medneter@naver.comr<br>
 
 
 # 💻Tech Stack
@@ -29,8 +29,6 @@
 # 📊GitHub Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=Gradient&show_icons=true)
-
-![KimGunWoo9595's github stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
