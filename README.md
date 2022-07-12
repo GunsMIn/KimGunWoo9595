@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=GunWoo&fontSize=60)<br>
 <h2>✨Hello, I'm GunWoo!✨</h2>
 미래의 백엔드 개발자 김건우 입니다 :D<br>
 "You just need to believe in yourself." <br><br>
