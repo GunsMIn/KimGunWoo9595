@@ -5,12 +5,15 @@
 <h2>✨Hello, I'm GunWoo!✨</h2>
 미래의 백엔드 개발자 김건우 입니다 :D<br>
 "You just need to believe in yourself." <br><br>
+<img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="30%">
+
+
 <br>
 
 
  # 💫About Me :
 🎓Graduated : Dankook university<br>
-📜Certificated : 멋쟁이사자처럼 백엔드스쿨 2기 / Korea IT 백엔드 <br>
+📜Certificated : Korea IT program in Seoul<br>
 💌Email : medneter@naver.com<br>
 👀Notion : https://www.notion.so/Backend-Developer-95cc2d34fe7e400e97b484eae136d1a7<br>
 
@@ -45,6 +48,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
+
+
+
+
+
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=Gradient&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Summary
+<p align ="left">
+<img align="center" src="/github-metrics-KimGunWoo9595-main.svg" alt="Metrics" width="500">
+</p>
