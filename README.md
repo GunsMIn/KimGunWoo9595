@@ -1,12 +1,6 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=✨Hello, I'm GunWoo!✨&fontSize=60)<br>
-<h2>✨Hello, I'm GunWoo!✨</h2>
-미래의 백엔드 개발자 김건우 입니다 :D<br>
-"You just need to believe in yourself." <br><br>
-<img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="30%">
-
 
 <br>
 
