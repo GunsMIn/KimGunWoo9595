@@ -7,8 +7,8 @@
 
  # 💫About Me :
 <b>🎓Graduated : Dankook university</b><br>
-<b>📜Certificated : 멋쟁이사자처럼 backend 2th / Korea IT program in Seoul</b><br>
-
+<b>📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul</b><br>
+Mnbbjj
 # 💻Tech Stack
 
 
