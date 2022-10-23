@@ -5,7 +5,7 @@
 <br>
 
 
- # 💫About Me :
+ # 💫About Me
 <b>🎓Graduated : Dankook university</b><br>
 <b>📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul</b><br>
 # 💻Tech Stack
