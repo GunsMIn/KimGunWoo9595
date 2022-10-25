@@ -1,29 +1,23 @@
-<div align="center">
+## README
 
+### Hello, I'm Juhyeong Ahn!
+- 끊임없이 성장하고 싶은 개발자 김건우입니다. 😀
+- 🇰🇷 I’m a Back-end developer from South Korea.
+- 🌱 I'm currently learning Back-end and DevOps.
+- 📝 I regularly write articles on [MY BLOG](https://www.notion.so/Backend-Developer-95cc2d34fe7e400e97b484eae136d1a7/).  
+- My Email is here! 👉  gunwoo4670@gmail.com
+<!--  My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) -->
+<!-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student. -->
 
+## 🎈Skill
+<img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
 
-<br>
-
-
- # 💫About Me
-<b>🎓Graduated : Dankook university</b><br>
-<b>📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul</b><br>
-# 💻Tech Stack
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
-<img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
-
-
-
-
-<h2>🎈Tools🎈</h2>
-
-
+## 🎈Tools
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
@@ -33,8 +27,7 @@
 
 
 
-
-
-
-# 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=Gradient&show_icons=true)
+## Summary
+<p align ="left">
+<img align="center" src="/github-metrics-dkswnkk-main.svg" alt="Metrics" width="500">
+</p>
