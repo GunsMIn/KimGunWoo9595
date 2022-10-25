@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
 
-## 💻Tools
+## 📚Tools
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
