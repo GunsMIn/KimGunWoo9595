@@ -4,6 +4,8 @@
 - 끊임없이 성장하고 싶은 개발자 김건우입니다. 😀
 - 🇰🇷 I’m a Back-end developer from South Korea.
 - 🌱 I'm currently learning Back-end and DevOps.
+- 🎓Graduated : Dankook university.
+- 📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul.
 - 📝 I regularly write articles on [MY BLOG](https://www.notion.so/Backend-Developer-95cc2d34fe7e400e97b484eae136d1a7/).  
 - My Email is here! 👉  gunwoo4670@gmail.com
 <!--  My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) -->
@@ -25,9 +27,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
-
-
-## Summary
-<p align ="left">
-<img align="center" src="/github-metrics-KimGunWoo9595-main.svg" alt="Metrics" width="500">
-</p>
