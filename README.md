@@ -1,7 +1,7 @@
 ## README
 
 ### Hello, I'm Gunwoo Kim!
-- 하루하루 최선을 다 하고싶은 개발자 김건우입니다. 😀
+- 👨🏻‍💻하루하루 최선을 다 하는 개발자 김건우입니다. 😀
 - 🌱 I'm currently learning Back-end and DevOps.
 - 🎓Graduated : Dankook university.
 - 📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul.
