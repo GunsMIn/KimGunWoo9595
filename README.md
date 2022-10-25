@@ -1,6 +1,6 @@
 ## README
 
-### Hello, I'm Juhyeong Ahn!
+### Hello, I'm Gunwoo Kim!
 - 끊임없이 성장하고 싶은 개발자 김건우입니다. 😀
 - 🇰🇷 I’m a Back-end developer from South Korea.
 - 🌱 I'm currently learning Back-end and DevOps.
