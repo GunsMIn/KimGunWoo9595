@@ -1,12 +1,12 @@
 ## Hello, I'm Gunwoo Kim!
 
 
-- 👨🏻‍💻하루하루 최선을 다 하는 개발자 김건우입니다. 😀
-- 🌱 I'm currently learning Back-end and DevOps.
-- 🎓Graduated : Dankook university.
-- 📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul.
-- 📝 I regularly write articles on [MY BLOG](https://velog.io/@guns95).  
-- My Email is here! 👉  gunwoo4670@gmail.com
+- **👨🏻‍💻하루하루 최선을 다 하는 개발자 김건우입니다. 😀**
+- **🌱 I'm currently learning Back-end and DevOps.**
+- **🎓Graduated : Dankook university.**
+- **📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul.**
+- **📝 I regularly write articles on [MY BLOG](https://velog.io/@guns95).**  
+- **My Email is here! 👉  gunwoo4670@gmail.com**
 <!--  My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) -->
 <!-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student. -->
 
