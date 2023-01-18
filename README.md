@@ -7,7 +7,7 @@
 - **📜Certificated  멋쟁이사자처럼 backend 2th / Korea IT backend program in Seoul.**
 - **📝 I regularly write articles on [MY BLOG](https://velog.io/@guns95).**  
 - **My Email is here! 👉  gunwoo4670@gmail.com**
-<!--  My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) -->
+<!--  My Resume is here! 👉  -->
 <!-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student. -->
 
 ## 🛠Skill
